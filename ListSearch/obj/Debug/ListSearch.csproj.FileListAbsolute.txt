@@ -1,0 +1,13 @@
+E:\VisualStudio\C#\ListSearch\ListSearch\bin\Debug\ListSearch.exe.config
+E:\VisualStudio\C#\ListSearch\ListSearch\bin\Debug\ListSearch.exe
+E:\VisualStudio\C#\ListSearch\ListSearch\bin\Debug\ListSearch.pdb
+E:\VisualStudio\C#\ListSearch\ListSearch\obj\Debug\ListSearch.csprojAssemblyReference.cache
+E:\VisualStudio\C#\ListSearch\ListSearch\obj\Debug\ListSearch.Form1.resources
+E:\VisualStudio\C#\ListSearch\ListSearch\obj\Debug\ListSearch.Properties.Resources.resources
+E:\VisualStudio\C#\ListSearch\ListSearch\obj\Debug\ListSearch.csproj.GenerateResource.cache
+E:\VisualStudio\C#\ListSearch\ListSearch\obj\Debug\ListSearch.csproj.CoreCompileInputs.cache
+E:\VisualStudio\C#\ListSearch\ListSearch\obj\Debug\ListSearch.exe
+E:\VisualStudio\C#\ListSearch\ListSearch\obj\Debug\ListSearch.pdb
+E:\VisualStudio\C#\ListSearch\ListSearch\bin\Debug\Newtonsoft.Json.dll
+E:\VisualStudio\C#\ListSearch\ListSearch\bin\Debug\Newtonsoft.Json.xml
+E:\VisualStudio\C#\ListSearch\ListSearch\obj\Debug\ListSearch.csproj.CopyComplete
